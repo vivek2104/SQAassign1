@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQAassigmnet1", "SQAassigmnet1\SQAassigmnet1.csproj", "{AC2A5F19-0758-44FB-ACEA-680EEE1DB154}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQAassign1", "SQAassigmnet1\SQAassign1.csproj", "{AC2A5F19-0758-44FB-ACEA-680EEE1DB154}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

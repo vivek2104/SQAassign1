@@ -1,0 +1,6 @@
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\SQAassigmnet1\bin\Debug\SQAassigmnet1.exe.config
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\SQAassigmnet1\bin\Debug\SQAassigmnet1.exe
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\SQAassigmnet1\bin\Debug\SQAassigmnet1.pdb
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\SQAassigmnet1\obj\Debug\SQAassign1.csproj.CoreCompileInputs.cache
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\SQAassigmnet1\obj\Debug\SQAassigmnet1.exe
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\SQAassigmnet1\obj\Debug\SQAassigmnet1.pdb
