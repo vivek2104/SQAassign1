@@ -9,7 +9,7 @@ using NUnit.Framework;
 namespace rectangle_unit_testing
 {
     [TestFixture]
-    public class Class1
+    public class unit_testing
     {
         [Test]
         public void testing_getLength_input7_expected7() //Testing for getLength() Method
