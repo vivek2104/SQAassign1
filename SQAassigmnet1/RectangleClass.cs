@@ -25,6 +25,11 @@ namespace SQAassigmnet1
         {
             return length;
         }
+        public int setLength(int length)
+        {
+            this.length = length;
+            return this.length;
+        }
         public int getWidth()
         {
             return width;
