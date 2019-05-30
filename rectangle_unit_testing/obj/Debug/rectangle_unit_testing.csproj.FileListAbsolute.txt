@@ -1,0 +1,12 @@
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\rectangle_unit_testing\bin\Debug\rectangle_unit_testing.dll
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\rectangle_unit_testing\bin\Debug\rectangle_unit_testing.pdb
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\rectangle_unit_testing\obj\Debug\rectangle_unit_testing.csproj.CoreCompileInputs.cache
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\rectangle_unit_testing\obj\Debug\rectangle_unit_testing.dll
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\rectangle_unit_testing\obj\Debug\rectangle_unit_testing.pdb
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\rectangle_unit_testing\bin\Debug\SQAassigmnet1.exe
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\rectangle_unit_testing\bin\Debug\SQAassigmnet1.pdb
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\rectangle_unit_testing\bin\Debug\SQAassigmnet1.exe.config
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\rectangle_unit_testing\obj\Debug\rectangle_unit_testing.csprojAssemblyReference.cache
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\rectangle_unit_testing\obj\Debug\rectangle_unit_testing.csproj.CopyComplete
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\rectangle_unit_testing\bin\Debug\nunit.framework.dll
+D:\sem 2\Software Quality\SQAassign1\SQAassigmnet1\rectangle_unit_testing\bin\Debug\nunit.framework.xml
