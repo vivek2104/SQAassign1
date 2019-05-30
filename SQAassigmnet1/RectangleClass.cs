@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SQAassigmnet1
+namespace SQAassign1
 {
     public class rectangleClass
     {
